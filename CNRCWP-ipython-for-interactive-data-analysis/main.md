@@ -30,6 +30,7 @@ Plan
 
 * Interactive (harder)
 
+    * Data for the workshop is in the folder: /home/huziy/skynet3_rech1/dfs_data_for_cnrcwp_tutorial_3dec_2014
     * Create a setup where:
         
         * A variable can be selected
@@ -48,7 +49,7 @@ References
 * To read on scientific stack in Python -- http://www.scipy.org/
 * Matplotlib gallery -- http://matplotlib.org/gallery.html
 * Basemap tutorial (for plotting geographical data on maps) -- https://basemaptutorial.readthedocs.org/en/latest/
- 
+* Python for MATLAB users -- http://nbviewer.ipython.org/github/gestaltrevision/python_for_visres/blob/master/Part3/Part3_Scientific_Python.ipynb 
 
 
 
