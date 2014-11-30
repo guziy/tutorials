@@ -12,7 +12,7 @@ Plan
 * Familiarize with IPython
   
     * Create and save notebooks, running a cell
-    *  %%bash - magic
+    * `%%bash` - magic
     
 * Python
     
@@ -24,7 +24,7 @@ Plan
 
 * Interactive (simple)
     
-    * plot y = x * sin(k*x) with widgets
+    * plot $y = x * sin(k*x)$ with widgets
 
 * Interactive (harder)
 
