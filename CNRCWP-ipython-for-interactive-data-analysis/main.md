@@ -24,7 +24,9 @@ Plan
 
 * Interactive (simple)
     
-    * plot $y = x * sin(k*x)$ with widgets
+    * plot y = x * sin(k*x) with widgets
+
+    * Show an example of 3D map from here -- https://basemaptutorial.readthedocs.org/en/latest/basemap3d.html#adding-3d-bars
 
 * Interactive (harder)
 
@@ -36,6 +38,20 @@ Plan
         * Color levels
 
     
+
+References
+-----------
+* If you need to download and install python -- https://www.python.org/
+* IPython documentation and tutorials -- http://ipython.org/
+* Python tutorial given at CMOS2014 -- http://tinyurl.com/cmos2014
+* Examples of IPython notebooks -- http://nbviewer.ipython.org/
+* To read on scientific stack in Python -- http://www.scipy.org/
+* Matplotlib gallery -- http://matplotlib.org/gallery.html
+* Basemap tutorial (for plotting geographical data on maps) -- https://basemaptutorial.readthedocs.org/en/latest/
+ 
+
+
+
 
 
 
