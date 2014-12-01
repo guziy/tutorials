@@ -6,6 +6,18 @@ IPython for interactive data analysis
 * CNRCWP modelling and data analysis workshop, Montreal
 
 
+Preparation
+-----------
+ * If you do not have an account on skynet3, please let me know
+ * After you have logged in to skynet3, source a profile
+
+        ```bash
+            . ~huziy/.profile_usr
+        ``` 
+
+
+
+
 Plan
 -----------
 
@@ -13,6 +25,7 @@ Plan
   
     * Create and save notebooks, running a cell
     * `%%bash` - magic
+    * TAB - autocomplete, Shift+TAB - help on function parameters
     
 * Python
     
