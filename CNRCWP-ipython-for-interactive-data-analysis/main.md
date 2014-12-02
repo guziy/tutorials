@@ -35,11 +35,12 @@ Plan
     
     * Create and plot a matrix using pcolormesh and contourf
 
+    * Show an example of 3D map from here -- https://basemaptutorial.readthedocs.org/en/latest/basemap3d.html#adding-3d-bars
+
 * Interactive (simple)
     
     * plot y = x * sin(k*x) with widgets
 
-    * Show an example of 3D map from here -- https://basemaptutorial.readthedocs.org/en/latest/basemap3d.html#adding-3d-bars
 
 * Interactive (harder)
 
