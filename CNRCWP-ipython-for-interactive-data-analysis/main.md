@@ -48,10 +48,11 @@ Plan
     * Create a setup where:
         
         * A variable can be selected
-        * Colorbar can be selected
-        * Lower and upper limits
+        * Colormap can be selected
         * Color levels
 
+* Show how to calculate seasonal mean fields
+* Plot wind vectors
     
 
 References
