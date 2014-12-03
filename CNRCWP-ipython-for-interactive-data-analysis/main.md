@@ -4,6 +4,7 @@ IPython for interactive data analysis
 
 * Date 02-12-2014 
 * CNRCWP modelling and data analysis workshop, Montreal
+* Link to this document: http://tinyurl.com/cnrcwp-ipython-workshop
 
 
 Preparation
