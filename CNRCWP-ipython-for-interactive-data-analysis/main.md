@@ -55,6 +55,31 @@ Plan
 * Plot wind vectors
     
 
+Modules used during the tutorial
+--------------------------------
+ 
+* numpy - for manipulating arrays
+* matplotlib - for plotting graphs (needed by basemap) 
+* basemap - for plotting on maps 
+* netCDF4 - for reading netcdf files
+* pandas - for calculation of seasonal means
+* os  - standard python module (installed with python)
+
+Usually I install the modules using `pip` as follows:
+
+```bash
+    pip install numpy
+```
+
+To list installed modules do:
+
+```bash
+    pip list
+```
+
+
+
+
 References
 -----------
 * If you need to download and install python -- https://www.python.org/
