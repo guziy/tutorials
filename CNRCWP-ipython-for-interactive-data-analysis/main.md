@@ -78,6 +78,13 @@ To list installed modules do:
     pip list
 ```
 
+Notebooks which were created during the tutorial
+-----------
+
+0. [A trivial example of using control widgets in IPython notebooks](http://nbviewer.ipython.org/github/guziy/PyNotebooks/blob/master/nb_tutorial/slider_trivial.ipynb)
+1.  [Plotting a 2d global field with parameterized widgets](http://nbviewer.ipython.org/github/guziy/PyNotebooks/blob/master/nb_tutorial/dfs_data_explore.ipynb)
+2. [Seasonal mean and wind plot](https://raw.githubusercontent.com/guziy/PyNotebooks/master/nb_tutorial/seasonal_mean_and_wind_plot.ipynb)
+3. Note that you'll need to download the notebooks and open them in an ipython notebook application in order to see the interactive widgets, which allow to change plot parameters on the fly
 
 
 
